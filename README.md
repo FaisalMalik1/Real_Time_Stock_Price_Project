@@ -6,7 +6,7 @@ project reads the data of the stock price and visualises it using a graph
 run `python install -r requirements.txt`
 
 ## Running the application
-run `Streamlit run Real_time_stockPrice.py`
+run `streamlit run Real_time_stockPrice.py`
 
 
 ![Stock_Price_Data](https://user-images.githubusercontent.com/77328120/127930092-74e1d165-0029-4264-981d-88bd932f5a3c.png)
